@@ -73,3 +73,7 @@ Ali
 ---
 [![License](https://img.shields.io/github/license/SanaAdeelKhan/EthicPay-AI)](LICENSE) [![Stars](https://img.shields.io/github/stars/=social)](https://github.com/SanaAdeelKhan/EthicPay-AI/stargazers) [![Issues](https://img.shields.io/github/issues/SanaAdeelKhan/EthicPay-AI)](https://github.com/SanaAdeelKhan/EthicPay-AI/issues) [![Last Commit](https://img.shields.io/github/last-commit/SanaAdeelKhan/EthicPay-AI)](https://github.com/SanaAdeelKhan/EthicPay-AI/commits/main)
 
+
+---
+[![License](https://img.shields.io/github/license/SanaAdeelKhan/EthicPay-AI)](LICENSE) [![Stars](https://img.shields.io/github/stars/=social)](https://github.com/SanaAdeelKhan/EthicPay-AI/stargazers) [![Issues](https://img.shields.io/github/issues/SanaAdeelKhan/EthicPay-AI)](https://github.com/SanaAdeelKhan/EthicPay-AI/issues) [![Last Commit](https://img.shields.io/github/last-commit/SanaAdeelKhan/EthicPay-AI)](https://github.com/SanaAdeelKhan/EthicPay-AI/commits/main)
+
