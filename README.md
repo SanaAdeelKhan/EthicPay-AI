@@ -45,8 +45,11 @@ EthicPay-AI/
 ## 🧾 Example Transaction Flow
 
 User initiates payment from dashboard.
+
 AI Compliance Agent checks ethical rules.
+
 Smart contract executes on blockchain if approved.
+
 Transaction logged to backend and displayed in dashboard.
 
 ## 📜 License
@@ -56,10 +59,15 @@ This project is licensed under the MIT License — open for ethical innovation a
 ## 👩‍💻 Team
 
 Sana Adeel
-Safiullah
-Sajjad
+
+Safiullah Saleem
+
+Sajjad Hussain
+
 Muhammad Noor
+
 Ali Jafar
+
 Waqas
 
 **“Building trust in finance through ethics and intelligence.”**
